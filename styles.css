@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 30%;
+    margin-top: 30px;
+}
+
+.info {
+    margin-top: -100px;
+    text-align: center;
+    font-family: monospace;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+    margin-top: 100px;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  
+}
