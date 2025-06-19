@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1199.382 1138.631"
+   xml:space="preserve"
+   sodipodi:docname="nodo.svg"
+   width="1199.382"
+   height="1138.631"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs449" />
+<style
+   type="text/css"
+   id="style439">
+	.st0{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   id="namedview1"
+   inkscape:current-layer="svg1"
+   inkscape:cx="417.54624"
+   inkscape:cy="568.83111"
+   inkscape:deskcolor="#505050"
+   inkscape:document-units="mm"
+   inkscape:pagecheckerboard="0"
+   inkscape:pageopacity="0"
+   inkscape:showpageshadow="0"
+   inkscape:window-height="1011"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:zoom="0.24787674"
+   pagecolor="#505050"
+   showguides="true"
+   showgrid="false">
+	</sodipodi:namedview>
+
+<g
+   id="g2"
+   transform="matrix(0.42020171,0.42020171,-0.42020171,0.42020171,603.49382,-235.93804)"
+   style="fill:#000000">
+	<path
+   id="path12"
+   class="st0"
+   d="M 574.1,1265.5 255.9,947.3 502.7,700.5 l 62.7,62.7 60.9,-60.9 255.6,255.6 -66.7,66.7 L 565.7,775.2 391.6,949.3 641,1198.7 Z"
+   style="fill:#000000" />
+	<path
+   id="path13"
+   class="st0"
+   d="M 940.7,762.4 1114,589.1 933.6,408.6 760.2,582 Z m 62.3,75.5 -62,-62 -60.2,60.2 -193.6,-193.5 60.2,-60.2 -62.7,-62.7 186.6,-186.6 62.7,62.7 60.9,-60.9 193.6,193.6 -60.9,60.9 62,62 z"
+   style="fill:#000000" />
+	<path
+   id="path14"
+   class="st0"
+   d="M 967.2,1524.6 1140.5,1351.3 960,1170.8 786.7,1344.1 Z m 62.2,75.5 -62,-62 -60.2,60.2 -193.6,-193.6 60.2,-60.2 -62.7,-62.7 180.6,-180.6 -124.6,-124.6 66.8,-66.8 380.9,380.9 -60.9,60.9 62,62 z"
+   style="fill:#000000" />
+	<path
+   id="path15"
+   class="st0"
+   d="M 1341.6,1150.1 1515,976.8 1334.5,796.3 1161.2,969.6 Z m 62.3,75.5 -62,-62 -60.2,60.2 -193.6,-193.6 60.2,-60.2 -62.7,-62.7 186.6,-186.6 62.7,62.7 60.9,-60.9 193.6,193.6 -60.9,60.9 62,62 z"
+   style="fill:#000000" />
+</g>
+</svg>
